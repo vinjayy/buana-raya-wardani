@@ -11,14 +11,14 @@ export default function ClientsSection() {
   })
 
   const clients = [
-    { name: "Client 1", logo: "/placeholder.svg?height=100&width=200" },
-    { name: "Client 2", logo: "/placeholder.svg?height=100&width=200" },
-    { name: "Client 3", logo: "/placeholder.svg?height=100&width=200" },
-    { name: "Client 4", logo: "/placeholder.svg?height=100&width=200" },
-    { name: "Client 5", logo: "/placeholder.svg?height=100&width=200" },
-    { name: "Client 6", logo: "/placeholder.svg?height=100&width=200" },
-    { name: "Client 7", logo: "/placeholder.svg?height=100&width=200" },
-    { name: "Client 8", logo: "/placeholder.svg?height=100&width=200" },
+    { name: "Client 1", logo: "/logo1.png?height=100&width=200" },
+    { name: "Client 2", logo: "/logo1.png?height=100&width=200" },
+    { name: "Client 3", logo: "/logo1.png?height=100&width=200" },
+    { name: "Client 4", logo: "/logo1.png?height=100&width=200" },
+    { name: "Client 5", logo: "/logo1.png?height=100&width=200" },
+    { name: "Client 6", logo: "/logo1.png?height=100&width=200" },
+    { name: "Client 7", logo: "/logo1.png?height=100&width=200" },
+    { name: "Client 8", logo: "/logo1.png?height=100&width=200" },
   ]
 
   return (

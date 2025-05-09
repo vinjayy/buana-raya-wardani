@@ -16,27 +16,27 @@ export default function ProductsSection() {
     {
       name: "Pucuk Merah (Red Shoot)",
       description: "Hedge atau border plant dengan daun hijau dan merah.",
-      image: "/placeholder.svg?height=400&width=300",
+      image: "/product-1.jpeg?height=400&width=300",
     },
     {
       name: "Ekor Kuda (Horsetail Plant)",
       description: "Tanaman batang vertikal untuk gaya taman modern/minimalis.",
-      image: "/placeholder.svg?height=400&width=300",
+      image: "/product-1.jpeg?height=400&width=300",
     },
     {
       name: "Sirih Gading (Golden Pothos)",
       description: "Tanaman merambat tahan banting untuk dinding atau ground cover.",
-      image: "/placeholder.svg?height=400&width=300",
+      image: "/product-1.jpeg?height=400&width=300",
     },
     {
       name: "The-Tehan",
       description: "Semak serbaguna untuk pagar dan aksen taman.",
-      image: "/placeholder.svg?height=400&width=300",
+      image: "/product-1.jpeg?height=400&width=300",
     },
     {
       name: "Rumput Jepang (Japanese Grass)",
       description: "Rumput halus untuk tampilan lawn yang rapi.",
-      image: "/placeholder.svg?height=400&width=300",
+      image: "/product-1.jpeg?height=400&width=300",
     },
   ]
 

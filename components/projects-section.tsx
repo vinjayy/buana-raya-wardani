@@ -29,25 +29,25 @@ export default function ProjectsSection() {
 
   const projectImages = [
     {
-      src: "/placeholder.svg?height=600&width=800",
+      src: "/hero-1.jpeg?height=600&width=800",
       alt: "Project 1",
       title: "Juanda International Airport",
       description: "Landscape design for the airport entrance and surrounding areas",
     },
     {
-      src: "/placeholder.svg?height=600&width=800",
+      src: "/product-1.jpeg?height=600&width=800",
       alt: "Project 2",
       title: "Surakarta Hadiningrat Palace",
       description: "Royal garden restoration and maintenance",
     },
     {
-      src: "/placeholder.svg?height=600&width=800",
+      src: "/hero-1.jpeg?height=600&width=800",
       alt: "Project 3",
       title: "Tawangsari Waterboom",
       description: "Tropical landscape design for water park",
     },
     {
-      src: "/placeholder.svg?height=600&width=800",
+      src: "/product-1.jpeg?height=600&width=800",
       alt: "Project 4",
       title: "Senjadi Prambanan Café",
       description: "Modern garden design with traditional elements",

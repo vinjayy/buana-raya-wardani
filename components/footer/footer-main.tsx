@@ -17,14 +17,17 @@ export function FooterMain() {
           transition={{ duration: 0.5 }}
           className="space-y-4"
         >
-          <div className="flex items-center gap-3 mb-4">
-            <Image
-              src="/placeholder.svg?height=50&width=50"
-              alt="PT Buana Raya Wardani Logo"
-              width={50}
-              height={50}
-              className="rounded"
-            />
+       <div className="flex items-center gap-3 mb-4">
+  <div className="bg-white p-1 rounded">
+    <Image
+      src="/logo1.png"
+      alt="PT Buana Raya Wardani Logo"
+      width={40}
+      height={40}
+      className="rounded"
+    />
+  </div>
+
             <div className="flex flex-col">
               <span className="text-lg font-bold">PT BUANA RAYA WARDANI</span>
               <span className="text-xs text-gray-300">Your Trusted Landscape & Horticulture Partner</span>

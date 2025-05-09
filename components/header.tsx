@@ -43,7 +43,7 @@ export default function Header() {
           className="flex items-center gap-2"
         >
           <Link href="/" className="flex items-center gap-2">
-            <Image src="/logo.png" alt="PT Buana Raya Wardani Logo" width={40} height={40} className="rounded" />
+            <Image src="/logo1.png" alt="PT Buana Raya Wardani Logo" width={40} height={40} className="rounded" />
             <div className="flex flex-col">
               <span className="text-sm font-bold md:text-base">PT BUANA RAYA WARDANI</span>
               <span className="text-xs text-muted-foreground hidden md:inline-block">

@@ -71,7 +71,7 @@ export default function AboutSection() {
             className="relative rounded-lg overflow-hidden shadow-xl mb-8"
           >
             <Image
-              src="/about-image.png"
+              src="/hero-1.jpeg"
               alt="Landscaping project"
               width={600}
               height={400}

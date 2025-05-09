@@ -40,9 +40,6 @@ export function NavbarDesktop() {
             </div>
           </div>
           <div className="flex items-center gap-4">
-            <Link href="#" className="text-xs hover:underline">
-              
-            </Link>
             <Link href="#contact" className="text-xs hover:underline">
               Contact Us
             </Link>
@@ -60,7 +57,7 @@ export function NavbarDesktop() {
         >
           <Link href="/" className="flex items-center gap-3">
             <Image
-              src="/placeholder.svg?height=50&width=50"
+              src="/logo1.png?height=50&width=50"
               alt="PT Buana Raya Wardani Logo"
               width={50}
               height={50}

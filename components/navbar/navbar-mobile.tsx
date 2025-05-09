@@ -49,7 +49,7 @@ export function NavbarMobile() {
         >
           <Link href="/" className="flex items-center gap-2">
             <Image
-              src="/placeholder.svg?height=40&width=40"
+              src="/logo1.png?height=40&width=40"
               alt="PT Buana Raya Wardani Logo"
               width={40}
               height={40}
