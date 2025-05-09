@@ -41,7 +41,7 @@ export function NavbarDesktop() {
           </div>
           <div className="flex items-center gap-4">
             <Link href="#" className="text-xs hover:underline">
-              FAQ
+              
             </Link>
             <Link href="#contact" className="text-xs hover:underline">
               Contact Us
