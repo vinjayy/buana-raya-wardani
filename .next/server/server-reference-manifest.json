@@ -1,17 +1,1 @@
-{
-  "node": {
-    "40f78f977f8b5fdc976547531d64bb73acf8cdb506": {
-      "workers": {
-        "app/page": {
-          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Cmy-application%5C%5Cbuana-raya-wardani%5C%5Capp%5C%5Cactions%5C%5Cemail.ts%22%2C%5B%7B%22id%22%3A%2240f78f977f8b5fdc976547531d64bb73acf8cdb506%22%2C%22exportedName%22%3A%22sendEmail%22%7D%5D%5D%5D&__client_imported__=true!",
-          "async": false
-        }
-      },
-      "layer": {
-        "app/page": "action-browser"
-      }
-    }
-  },
-  "edge": {},
-  "encryptionKey": "N/GzVyW3PMmGIVmvs6sMY0QCtc/8HEufnDWAkSdqtCY="
-}
+{"node":{"40f78f977f8b5fdc976547531d64bb73acf8cdb506":{"workers":{"app/page":{"moduleId":"8872","async":false}},"layer":{"app/page":"action-browser"}}},"edge":{},"encryptionKey":"N/GzVyW3PMmGIVmvs6sMY0QCtc/8HEufnDWAkSdqtCY="}
