@@ -25,6 +25,17 @@ export default function ProjectsSection() {
     "Sewu Padi Group Hotel, Yogyakarta",
     "D'Salvatore Art & Boutique Hotel, Yogyakarta",
     "PT. Santoso Cipta Sejahtera, Yogyakarta",
+    "Sasana Kridha Jaya Desa Karangmalang, Sragen",
+    "Masjid Agung Kauman Magelang",
+    "PLTU Paiton, Probolinggo",
+    "Balai Pengujian Laik Jalan & Sertifikasi Kendaraan Bermotor, Bekasi",
+    "Umbul Kemanten, Klaten",
+    "Wahana Soko Alas, Polanharjo, Klaten",
+    "Senjadi Prambanan Coffee & Eatery, Klaten",
+    "Sindu Kusuma Edupark (SKE), Sleman",
+    "Pabrik Bakpia Tugu Cupuwatu, Sleman",
+    "Moritz Hill Borobudur Resort & Spa, Magelang",
+    "Kawasan Industri Panbil, Batam",
   ]
 
   const projectImages = [

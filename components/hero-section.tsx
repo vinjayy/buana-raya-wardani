@@ -23,7 +23,7 @@ export default function HeroSection() {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl"
         >
-          Your Trusted Landscape & Horticulture Partner Update nih guys
+          Your Trusted Landscape & Horticulture Partner
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, y: 20 }}

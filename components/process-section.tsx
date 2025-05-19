@@ -14,32 +14,32 @@ export default function ProcessSection() {
     {
       number: "01",
       title: "Consultation & Site Visit",
-      description: "Memahami kebutuhan klien dan evaluasi lokasi.",
+      description: "Understanding client needs and site evaluation.",
     },
     {
       number: "02",
       title: "Concept & Design Planning",
-      description: "Membuat konsep desain dengan visualisasi 2D/3D.",
+      description: "Create design concepts with 2D/3D visualization.",
     },
     {
       number: "03",
       title: "Quotation & Agreement",
-      description: "Menyediakan penawaran transparan dan perjanjian kerja.",
+      description: "Provide transparent offers and work agreements.",
     },
     {
       number: "04",
       title: "Plant Selection & Procurement",
-      description: "Memilih dan mendapatkan tanaman berkualitas.",
+      description: "Selecting and obtaining quality plants.",
     },
     {
       number: "05",
       title: "Implementation & Installation",
-      description: "Pelaksanaan desain oleh profesional.",
+      description: "Design execution by professionals.",
     },
     {
       number: "06",
       title: "Finishing & Quality Control",
-      description: "Inspeksi akhir untuk memastikan kualitas dan kesesuaian.",
+      description: "Final inspection to ensure quality and conformity.",
     },
   ]
 

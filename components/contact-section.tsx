@@ -61,7 +61,7 @@ export default function ContactSection() {
               </div>
               <div>
                 <h3 className="font-bold text-green-800">Phone</h3>
-                <p className="text-gray-700">+62 856-4304-2043 (Ririn Arini)</p>
+                <p className="text-gray-700">+62 856-4304-2043</p>
               </div>
             </div>
             <div className="flex items-start gap-3">
@@ -70,7 +70,7 @@ export default function ContactSection() {
               </div>
               <div>
                 <h3 className="font-bold text-green-800">Email</h3>
-                <p className="text-gray-700">buanarayawardani@gmail.com</p>
+                <p className="text-gray-700">sales@buanarayawardani.com</p>
               </div>
             </div>
             <div className="mt-8 rounded-lg overflow-hidden shadow-md">

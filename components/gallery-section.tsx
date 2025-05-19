@@ -16,32 +16,32 @@ export default function GallerySection() {
 
   const galleryImages = [
     {
-      src: "/hero-1.jpeg",
+      src: "/project-1.jpeg",
       alt: "Landscape project 1",
       category: "Residential",
     },
     {
-      src: "/hero-1.jpeg",
+      src: "/project-2.jpeg",
       alt: "Landscape project 2",
       category: "Commercial",
     },
     {
-      src: "/hero-1.jpeg",
+      src: "/project-3.jpeg",
       alt: "Landscape project 3",
       category: "Public Space",
     },
     {
-      src: "/hero-1.jpeg",
+      src: "/project-4.jpeg",
       alt: "Landscape project 4",
       category: "Residential",
     },
     {
-      src: "/hero-1.jpeg",
+      src: "/project-5.jpeg",
       alt: "Landscape project 5",
       category: "Commercial",
     },
     {
-      src: "/hero-1.jpeg",
+      src: "/project-6.jpeg",
       alt: "Landscape project 6",
       category: "Public Space",
     },
