@@ -70,7 +70,7 @@ export default function ContactSection() {
               </div>
               <div>
                 <h3 className="font-bold text-green-800">Email</h3>
-                <p className="text-gray-700">sales@buanarayawardani.com</p>
+                <p className="text-gray-700">businessdevelopment@buanarayawardani.com</p>
               </div>
             </div>
             <div className="mt-8 rounded-lg overflow-hidden shadow-md">
