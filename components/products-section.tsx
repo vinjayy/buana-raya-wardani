@@ -19,7 +19,7 @@ export default function ProductsSection() {
       image: "/pucuk-merah.jpeg?height=400&width=300",
     },
     {
-      name: "Ekor Kuda (Horsetail Plant)",
+      name: "Bambu Kuning",
       description: "Vertical stem plants for a modern/minimalist garden style.",
       image: "/ekor-kuda.jpeg?height=400&width=300",
     },
@@ -31,7 +31,7 @@ export default function ProductsSection() {
     {
       name: "The-Tehan",
       description: "Versatile shrub for hedges and garden accents.",
-      image: "/the-tehan.jpeg?height=400&width=300",
+      image: "/tehtehan.jpeg?height=400&width=300",
     },
     {
       name: "Rumput Jepang (Japanese Grass)",

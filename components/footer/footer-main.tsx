@@ -141,7 +141,7 @@ export function FooterMain() {
             </div>
             <div className="flex items-center gap-3">
               <Phone className="h-5 w-5 text-green-400 flex-shrink-0" />
-              <span className="text-sm text-gray-300">+62 856-4304-2043 (Ririn Arini)</span>
+              <span className="text-sm text-gray-300">+62 856-4304-2043</span>
             </div>
             <div className="flex items-center gap-3">
               <Mail className="h-5 w-5 text-green-400 flex-shrink-0" />

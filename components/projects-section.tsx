@@ -42,26 +42,18 @@ export default function ProjectsSection() {
     {
       src: "/hero-1.jpeg?height=600&width=800",
       alt: "Project 1",
-      title: "Juanda International Airport",
-      description: "Landscape design for the airport entrance and surrounding areas",
     },
     {
       src: "/product-1.jpeg?height=600&width=800",
       alt: "Project 2",
-      title: "Surakarta Hadiningrat Palace",
-      description: "Royal garden restoration and maintenance",
     },
     {
       src: "/project-7.jpeg?height=600&width=800",
       alt: "Project 3",
-      title: "Tawangsari Waterboom",
-      description: "Tropical landscape design for water park",
     },
     {
       src: "/project-8.jpeg?height=600&width=800",
       alt: "Project 4",
-      title: "Senjadi Prambanan Café",
-      description: "Modern garden design with traditional elements",
     },
   ]
 
