@@ -27,12 +27,8 @@ export default function ProjectsSection() {
       alt: "Project 2",
     },
     {
-      src: "/project-7.jpeg?height=600&width=800",
-      alt: "Project 3",
-    },
-    {
       src: "/project-8.jpeg?height=600&width=800",
-      alt: "Project 4",
+      alt: "Project 3",
     },
   ]
 

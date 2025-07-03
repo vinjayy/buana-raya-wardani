@@ -14,27 +14,27 @@ export default function ProductsSection() {
 
   const products = [
     {
-      name: "Pucuk Merah (Red Shoot)",
+      name: "Red Shoot",
       description: "Hedge or border plant with green and red leaves.",
       image: "/pucuk-merah.jpeg?height=400&width=300",
     },
     {
-      name: "Bambu Kuning",
+      name: "Golden Bamboo",
       description: "Vertical stem plants for a modern/minimalist garden style.",
       image: "/ekor-kuda.jpeg?height=400&width=300",
     },
     {
-      name: "Sirih Gading (Golden Pothos)",
+      name: "Golden Pothos",
       description: "A tough climbing plant for walls or ground cover.",
       image: "/sirih-gading.jpeg?height=400&width=300",
     },
     {
-      name: "The-Tehan",
+      name: "Wild Tea",
       description: "Versatile shrub for hedges and garden accents.",
       image: "/tehtehan.jpeg?height=400&width=300",
     },
     {
-      name: "Rumput Jepang (Japanese Grass)",
+      name: "Japanese Lawn Grass",
       description: "Fine grass for a neat lawn appearance.",
       image: "/rumput-jepang.jpeg?height=400&width=300",
     },
