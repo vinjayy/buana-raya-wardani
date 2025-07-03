@@ -35,6 +35,28 @@ export default function ProjectMapCarousel() {
     "Kintamani, Bali",
     "Denpasar, Bali",
     "Kuta, Bali",
+    "Juanda International Airport, Surabaya",
+    "Surakarta Hadiningrat Palace",
+    "Tawangsari Waterboom, Surakarta",
+    "Mutiara SIS Al-Jufri Airport, Palu",
+    "Senjadi Prambanan Café, Klaten",
+    "Kakung Sableng Resto, Klaten",
+    "Taman Wisata Soko Alas, Klaten",
+    "Joglo Tobong Café, Gunung Kidul",
+    "Sewu Padi Group Hotel, Yogyakarta",
+    "D'Salvatore Art & Boutique Hotel, Yogyakarta",
+    "PT. Santoso Cipta Sejahtera, Yogyakarta",
+    "Sasana Kridha Jaya Desa Karangmalang, Sragen",
+    "Masjid Agung Kauman Magelang",
+    "PLTU Paiton, Probolinggo",
+    "Balai Pengujian Laik Jalan & Sertifikasi Kendaraan Bermotor, Bekasi",
+    "Umbul Kemanten, Klaten",
+    "Wahana Soko Alas, Polanharjo, Klaten",
+    "Senjadi Prambanan Coffee & Eatery, Klaten",
+    "Sindu Kusuma Edupark (SKE), Sleman",
+    "Pabrik Bakpia Tugu Cupuwatu, Sleman",
+    "Moritz Hill Borobudur Resort & Spa, Magelang",
+    "Kawasan Industri Panbil, Batam",
   ]
 
   const visibleCards = 3
@@ -72,7 +94,7 @@ export default function ProjectMapCarousel() {
           className="relative w-full max-w-6xl mx-auto aspect-[16/9] rounded-xl overflow-hidden mb-12"
         >
           <Image
-            src="/map-indonesia4.png" // Ganti sesuai path gambarmu
+            src="/map-indonesia5.jpg" // Ganti sesuai path gambarmu
             alt="Indonesia Project Map"
             fill
             className="object-contain"

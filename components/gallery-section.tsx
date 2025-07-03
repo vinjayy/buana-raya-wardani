@@ -18,32 +18,32 @@ export default function GallerySection() {
     {
       src: "/project-1.jpeg",
       alt: "Landscape project 1",
-      category: "Residential",
+      //category: "Residential",
     },
     {
       src: "/project-2.jpeg",
       alt: "Landscape project 2",
-      category: "Commercial",
+      //category: "Commercial",
     },
     {
       src: "/project-3.jpeg",
       alt: "Landscape project 3",
-      category: "Public Space",
+      //category: "Public Space",
     },
     {
       src: "/project-4.jpeg",
       alt: "Landscape project 4",
-      category: "Residential",
+      //category: "Residential",
     },
     {
       src: "/project-5.jpeg",
       alt: "Landscape project 5",
-      category: "Commercial",
+      //category: "Commercial",
     },
     {
       src: "/project-6.jpeg",
       alt: "Landscape project 6",
-      category: "Public Space",
+      //category: "Public Space",
     },
   ]
 
@@ -87,7 +87,7 @@ export default function GallerySection() {
                 />
                 <div className="absolute inset-0 bg-black bg-opacity-20 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end">
                   <div className="w-full p-4 bg-gradient-to-t from-black/80 to-transparent">
-                    <span className="text-white font-medium">{image.category}</span>
+                    <span className="text-white font-medium"></span>
                   </div>
                 </div>
               </motion.div>
