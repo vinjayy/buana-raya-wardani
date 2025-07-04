@@ -38,6 +38,12 @@ export default function ProductsSection() {
       description: "Fine grass for a neat lawn appearance.",
       image: "/rumput-jepang.jpeg?height=400&width=300",
     },
+    {
+      name: "Calathea",
+      description: "A popular and decorative tropical houseplant.",
+      image: "/newfoto.jpeg?height=400&width=300",
+    },
+
   ]
 
   return (
