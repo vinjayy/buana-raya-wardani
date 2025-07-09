@@ -26,7 +26,7 @@ export default function ProjectMapCarousel() {
 "Balai Pengujian Laik Jalan - Cibitung, Bekasi, Jawa Barat 17520",
 "Sewu Padi Hotel - Kaliurang, Sleman, DIY / Gianyar, Bali 80572",
 "D’Salvatore Hotel - Maguwoharjo, Sleman, DIY 55281",
-"PT. Santoso Cipta Sejahtera - Godean, Yogyakarta",
+"PT. Santoso Cipta Sejahtera - Godean, Yogyakarta 55264",
 "Joglo Tobong Café - Bumi Watu Obong, Gelung, Tegal Rejo, Kec. Wonosari, Kabupaten Gunungkidul, Daerah Istimewa Yogyakarta 55851",
 "Keraton Surakarta - Baluwarti, Surakarta, Jawa Tengah 57144",
 "Tawangsari Waterboom - Desa Tawangsari RT 1 RW 16, Kedung jeruk, Mojogedang, Karanganyar, Surakarta. 57753",
@@ -35,7 +35,6 @@ export default function ProjectMapCarousel() {
 "Batur Tengah, Kec. Kintamani, Kabupaten Bangli, Bali 80652",
 "Jl. Pulau Buton, Dauh Puri Klod, Kec. Denpasar Bar., Kota Denpasar, Bali 80113",
 "Jl. Kubu Anyar, Kuta, Kec. Kuta, Kabupaten Badung, Bali 80361",
-"Surakarta Hadiningrat Palace",
   ]
 
   const visibleCards = 3
